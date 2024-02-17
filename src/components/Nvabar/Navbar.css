@@ -1,0 +1,15 @@
+.main-class{
+    margin: 0 auto;
+    height: 72px;
+    max-width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-class nav ul{
+    list-style: none;
+    display: flex;
+    gap: 24px;
+    
+}

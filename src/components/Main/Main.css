@@ -1,0 +1,94 @@
+.Main-div-class{
+    margin: 0 auto;
+    display: flex;
+    max-height: 600px;
+    max-width: 1000px;
+    align-items: center;
+    justify-content: center;
+
+}
+.support-btn-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.via-email{
+    all: unset;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid black;
+    width: 95%;
+    padding: 10px 10px 10px 10px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.support-btn{
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 10px;
+}
+.support-chat{
+    all: unset;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 50px 10px 50px;
+    font-weight: 500;
+   
+
+
+}
+.via-call{
+    all: unset;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-weight: 500;
+    
+    padding: 10px 80px 10px 80px;
+
+}
+
+.form-div{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 24px;
+}
+form{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   
+    
+   
+    
+}
+  
+
+input{
+    
+height: 30px
+}
+.text-area{
+    width:440px;
+    height: 120px;
+    resize: none;
+
+}
+
+.submit{
+    all: unset;
+    background-color: black;
+    color: white;
+    padding: 10px 70px 10px 70px;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
